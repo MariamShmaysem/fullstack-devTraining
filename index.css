@@ -1,0 +1,25 @@
+.design{
+
+    width: 200px; 
+    height:200px; 
+    background-color: aqua;
+    margin: 5px;
+
+}
+.design2{
+    background-color: red;
+
+
+}
+.design3{
+
+    border-radius: 50%;
+}
+img{
+    width: 200px;
+    height: 200px;
+   
+}
+.meow{
+    border-radius: 50%;
+}
